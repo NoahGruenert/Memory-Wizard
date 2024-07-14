@@ -1,6 +1,6 @@
 # Memory-Wizard
 
-This reposiroty contains the SB3 file (Scratch code) for my Wizard Memory game.
+This repository contains the SB3 file (Scratch code) for my Wizard Memory game.
 Please go play the game at the following URL:
 
 https://scratch.mit.edu/projects/1047070106
